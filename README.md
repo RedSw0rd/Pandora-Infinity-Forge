@@ -1,4 +1,4 @@
-# FORGE – The Offensive Meta Package Manager  
+# FORGE – Offensive Meta Package Manager  
 *(Flexible Offensive Repository & Generalized Environment)*
 
 ---
